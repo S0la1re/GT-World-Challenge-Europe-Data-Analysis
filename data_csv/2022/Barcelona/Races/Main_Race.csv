@@ -1,0 +1,49 @@
+Pos,Car #,Class,Drivers,Team,Car,Time,Laps,Gap
+1,54,Pro Cup,"Klaus Bachler, Alessio Picariello, Matteo Cairoli",Dinamic Motorsport,Porsche 911 GT3-R (991.II),1:47.036,97,
+2,71,Pro Cup,"Alessandro Pierguidi, Alessio Rovera, Antonio Fuoco",Iron Lynx,Ferrari 488 GT3,1:46.905,97,0.873
+3,63,Pro Cup,"Mirko Bortolotti, Jack Aitken, Albert Costa",Emil Frey Racing,Lamborghini Huracan GT3 Evo,1:47.049,97,9.098
+4,32,Pro Cup,"Dries Vanthoor, Ricardo Feller, Charles Weerts",Team WRT,Audi R8 LMS evo II GT3,1:46.995,97,9.670
+5,88,Pro Cup,"Raffaele Marciello, Daniel Juncadella, Jules Gounon",AMG Team AKKODIS ASP,Mercedes-AMG GT3,1:46.618,97,22.168
+6,46,Pro Cup,"Frederic Vervisch, Nico Müller, Valentino Rossi",Team WRT,Audi R8 LMS evo II GT3,1:47.665,97,26.517
+7,25,Pro Cup,"Christopher Mies, Patric Niederhauser, Lucas Legeret",Sainteloc Junior Team,Audi R8 LMS evo II GT3,1:47.213,97,26.870
+8,2,Pro Cup,"Maro Engel, Luca Stolz, Steijn Schothorst",AMG Team GetSpeed,Mercedes-AMG GT3,1:47.602,97,31.325
+9,98,Pro Cup,"Philipp Eng, Augusto Farfus, Nick Yelloly",Rowe Racing,BMW M4 GT3,1:47.628,97,48.555
+10,38,Pro Cup,"Rob Bell, Oliver Wilkinson, Marvin Kirchhöfer",Jota,McLaren 720S GT3,1:47.673,97,48.961
+11,30,Silver Cup,"Jean-Baptiste Simmenauer, Benjamin Goethe, Thomas Neubauer",Team WRT,Audi R8 LMS evo II GT3,1:47.902,97,49.310
+12,159,Silver Cup,"Vargas Manuel Maldonado, Dean Macdonald, Nicolai Kjaergaard",Garage 59,McLaren 720S GT3,1:47.180,97,53.155
+13,50,Pro Cup,"Daniel Harper, Neil Verhagen, Max Hesse",Rowe Racing,BMW M4 GT3,1:47.629,97,55.920
+14,14,Silver Cup,"Mick Wishofer, Stuart White, Konsta Lappalainen",Emil Frey Racing,Lamborghini Huracan GT3 Evo,1:47.510,97,57.746
+15,777,Silver Cup,"Al Faisal Al Zubair, Axcil Jefferies, Fabian Schiller",Al Manar Racing by HRT,Mercedes-AMG GT3,1:47.191,97,58.572
+16,26,Silver Cup,"Nicolas Baert, Cesar Gazeau, Aurelien Panis",Sainteloc Junior Team,Audi R8 LMS evo II GT3,1:47.737,97,1:00.564
+17,99,Silver Cup,"Marius Zug, Nicolas Schöll, Alex Aka",Attempto Racing,Audi R8 LMS evo II GT3,1:47.977,97,1:01.848
+18,563,Silver Cup,"Michele Beretta, Yuki Nemoto, Benjamin Hites",VSR,Lamborghini Huracan GT3 Evo,1:48.165,97,1:06.234
+19,3,Silver Cup,"Sebastien Baud, Jeffrey Kingsley, Valdemar Eriksen",GetSpeed,Mercedes-AMG GT3,1:47.902,97,1:06.781
+20,51,Pro Cup,"Miguel Molina, Nicklas Nielsen, Giancarlo Fisichella",Iron Lynx,Ferrari 488 GT3,1:47.459,96,16.531
+21,11,Silver Cup,"Hugo Valente, Thierry Vermeulen, Lorenzo Patrese",Tresor by Car Collection,Audi R8 LMS evo II GT3,1:48.460,96,47.345
+22,87,Silver Cup,"Casper Stevenson, Thomas Drouet, Tommaso Mosca",AKKODIS ASP Team,Mercedes-AMG GT3,1:47.411,96,47.919
+23,90,Silver Cup,"Ezequiel Perez Companc, Sean Walkinshaw",Madpanda Motorsport,Mercedes-AMG GT3,1:47.756,96,53.771
+24,163,Silver Cup,"Baptiste Moulin, Andrea Cola, Marcus Paverud",VSR,Lamborghini Huracan GT3 Evo,1:48.022,96,54.532
+25,4,Silver Cup,"Jannes Fittje, Jordan Love, Alain Valente",Haupt Racing Team,Mercedes-AMG GT3,1:48.032,96,56.814
+26,112,Gold Cup,"Maciej Blazek, Patryk Krupinski, Norbert Siedler",JP Motorsport,McLaren 720S GT3,1:48.177,96,57.377
+27,33,Gold Cup,"Arnold Robin, Maxime Robin, Ryuichiro Tomita",Team WRT,Audi R8 LMS evo II GT3,1:47.888,96,57.898
+28,27,Silver Cup,"Isaac Tutumlu Lopez, Taylor Cooke, Brendon Leitch",Leipert Motorsport,Lamborghini Huracan GT3 Evo,1:48.097,96,1:00.098
+29,911,Gold Cup,"Ralf Bohn, Alfred Renauer, Robert Renauer",Herberth Motorsport,Porsche 911 GT3-R (991.II),1:47.777,96,1:04.294
+30,8,Gold Cup,"Nicolas Gomar, Mike Parisy, Loris Cabirou",AGS Events,Lamborghini Huracan GT3 Evo,1:48.840,96,1:05.803
+31,20,Pro-AM Cup,"Ian Loggie, Valentin Pierburg, Dominik Baumann",SPS automotive performance,Mercedes-AMG GT3,1:47.192,96,1:08.264
+32,10,Gold Cup,"Karim Ojjeh, Benjamin Lessennes, Adam Eteki",Boutsen Racing,Audi R8 LMS evo II GT3,1:47.978,96,1:16.521
+33,57,Gold Cup,"Jens Liebhauser, Lorenzo Ferrari, Lucas Auer",Winward Racing,Mercedes-AMG GT3,1:47.874,96,1:17.995
+34,91,Pro-AM Cup,"Alex Malykhin, Ayhancan Guven",Allied Racing,Porsche 911 GT3-R (991.II),1:47.561,96,1:26.311
+35,7,Gold Cup,"Oliver Millroy, Frederik Schandorff, Brendan Iribe",Inception Racing,McLaren 720S GT3,1:47.208,96,1:32.401
+36,5,Gold Cup,"Florian Scholze, Arjun Maini, Hubert Haupt",Haupt Racing Team,Mercedes-AMG GT3,1:47.446,95,-1:02.597
+37,93,Gold Cup,"Eddie Cheever, Jonathan Hui, Chris Froggatt",SKY - Tempesta Racing,Mercedes-AMG GT3,1:48.235,95,37.679
+38,111,Pro Cup,"Christian Klien, Vincent Abril, Dennis Lind",JP Motorsport,McLaren 720S GT3,1:47.437,94,-4:23.066
+39,52,Pro-AM Cup,"Stefano Costantini, Louis Machiels, Andrea Bertolini",AF Corse,Ferrari 488 GT3,1:48.463,94,1:04.370
+40,188,Pro-AM Cup,"Alexander West, Miguel Ramos, Henrique Chaves",Garage 59,McLaren 720S GT3,1:46.783,90,55.158
+41,56,Silver Cup,"Giorgio Roda, Marius Nakken, Mikkel O. Pedersen",Dinamic Motorsport,Porsche 911 GT3-R (991.II),1:46.918,78,-31:36.037
+42,12,Pro Cup,"Christopher Haase, Mattia Drudi, Luca Ghiotto",Tresor by Car Collection,Audi R8 LMS evo II GT3,1:47.186,74,-44:26.919
+43,83,Gold Cup,"Rahel Frey, Sarah Bovy, Michelle Gatting",Iron Dames,Ferrari 488 GT3,1:47.511,73,-45:07.035
+44,21,Gold Cup,"Hugo Delacour, Cedric Sbirrazzuoli, Alessandro Balzan",AF Corse,Ferrari 488 GT3,1:48.484,69,-50:16.932
+NC,77,Silver Cup,"Alex MacDowall, Jordan Witt, James Dorlin",Barwell Motorsport,Lamborghini Huracan GT3 Evo,1:48.071,58,-1:13:34.069
+NC,66,Pro Cup,"Markus Winkelhock, Kim Luis Schramm, Dennis Marschall",Attempto Racing,Audi R8 LMS evo II GT3,1:48.552,15,-2:33:43.425
+NC,19,Pro Cup,"Leo Roussel, Giacomo Altoe, Arthur Rougier",Emil Frey Racing,Lamborghini Huracan GT3 Evo,,2,-2:57:10.613
+NC,31,Silver Cup,"Diego Menchaca, Lewis Proctor, Finlay Hutchison",Team WRT,Audi R8 LMS evo II GT3,,2,-2:57:00.780

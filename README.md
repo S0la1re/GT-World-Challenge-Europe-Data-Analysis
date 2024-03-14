@@ -4,13 +4,4 @@ Welcome to the GT World Challenge Europe Analytics Project! This end-to-end proj
 
 ## Project Objective
 
-<<<<<<< HEAD
-Our primary goal is to analyze and determine which cars dominate on specific tracks and identify the most versatile vehicles. These cars are expected to consistently perform well across all championship circuits, considering only the data from the 2023 season.
-
-## Note
-At the moment, the code in "Retrieving_data.ipynb" not working correctly. On 05/03/2024, the code stopped working. The source of the problem is currently unknown.
-=======
 Our primary goal is to analyze and determine which cars dominate on specific tracks and identify the most versatile vehicles. These cars are expected to consistently perform well across all championship circuits, considering only the data from the 2023, 2022 and 2021 seasons.
-
-
->>>>>>> main

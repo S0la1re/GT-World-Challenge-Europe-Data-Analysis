@@ -1,7 +1,20 @@
-# GT World Challenge Europe Analytics Project
+# GT World Challenge Europe Analysis
+This project is designed to determine the most optimal car for participating in [GT World Challenge Europe](https://www.gt-world-challenge-europe.com/results) races by identifying the cars that consistently provide the highest and most reliable results across all tracks. By leveraging data from the last three seasons (2021, 2022, and 2023), we aim to uncover which cars dominated the championship overall and which excelled on specific tracks during the 2023 season.
 
-Welcome to the GT World Challenge Europe Analytics Project! This end-to-end project, designed for a Data Analyst portfolio, leverages the power of web scraping to extract race results data from various European racing circuits as featured on https://www.gt-world-challenge-europe.com/results.
+## Project Structure
+The project is divided into three main parts:
 
-## Project Objective
+### Web Scraping
+Data for the analysis was collected using web scraping techniques from the GT World Challenge Europe website. This step includes writing and executing scripts to extract race results, car specifications, and other relevant information about each car and race.
 
-Our primary goal is to analyze and determine which cars dominate on specific tracks and identify the most versatile vehicles. These cars are expected to consistently perform well across all championship circuits, considering only the data from the 2023, 2022 and 2021 seasons.
+### Data Cleaning
+After extracting the raw data, the next step was to clean and organize it to ensure accuracy and usability for analysis. This process included:
+- Removing duplicates
+- Handling missing or inconsistent data
+- Standardizing car names and track information
+
+### Data Analysis
+The cleaned dataset was then analyzed to identify the most optimal car. Key goals included:
+- Finding which cars consistently performed best overall across the past three seasons (2021, 2022, and 2023)
+- Determining which cars showed dominance on each specific track during the 2023 season
+- The analysis results were then compiled to provide a clear recommendation of the best car to use for participation in the GT World Challenge Europe.

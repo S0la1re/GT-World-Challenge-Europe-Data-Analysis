@@ -17,4 +17,4 @@ After extracting the raw data, the next step was to clean and organize it to ens
 The cleaned dataset was then analyzed to identify the most optimal car. Key goals included:
 - Finding which cars consistently performed best overall across the past three seasons (2021, 2022, and 2023)
 - Determining which cars showed dominance on each specific track during the 2023 season
-- The analysis results were then compiled to provide a clear recommendation of the best car to use for participation in the GT World Challenge Europe.
+- The analysis results were then compiled to provide a clear recommendation of the best car to use for participation in the GT World Challenge Europe in 2024 season.

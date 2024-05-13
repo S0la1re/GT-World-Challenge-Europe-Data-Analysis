@@ -1,5 +1,5 @@
 # GT World Challenge Europe Data Analysis
-This project is designed to determine the most optimal car for participating in [GT World Challenge Europe](https://www.gt-world-challenge-europe.com/results) for 2024 season. An optimal car should consistently provide the highest and most reliable results across all tracks. By leveraging data from the past three seasons (2021, 2022, and 2023), we aim to identify which cars consistently dominated the championship and which excelled on particular tracks during the 2023 season.
+This project is designed to determine the most optimal GT3 car for participating in [GT World Challenge Europe](https://www.gt-world-challenge-europe.com/results) for 2024 season. An optimal car should consistently provide the highest and most reliable results across all tracks. By leveraging data from the past three seasons (2021, 2022, and 2023), we aim to identify which cars consistently dominated the championship and which excelled on particular tracks during the 2023 season.
 
 ## Project Structure
 The project is divided into three main parts:

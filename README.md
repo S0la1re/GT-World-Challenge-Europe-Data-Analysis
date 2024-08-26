@@ -97,4 +97,4 @@ The results were visualized to facilitate a better understanding of the analysis
 
 
 ### Leaders at a specific race track for the 2023 season
-![Leaders at a specific race track for the 2023 season](Leaders_at_a_specific_race_track_for_the_2023_season)
+![Leaders at a specific race track for the 2023 season](images/Leaders_at_a_specific_race_track_for_the_2023_season.png)

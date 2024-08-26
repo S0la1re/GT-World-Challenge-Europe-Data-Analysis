@@ -84,17 +84,28 @@ The results were visualized to facilitate a better understanding of the analysis
 ![Leaders by the Median of Medians for the 2021, 2022, and 2023 Seasons](images/Leaders_by_the_Median_o_Medians_Seasons.png)
 
 
-#### Leaders by Median Position for the 2021 Season
+### Leaders by Median Position for the 2021 Season
 ![Leaders by median position for the 2021 season](images/Leaders_by_median_position_for_the_2021_season.png)
 
 
-#### Leaders by median position for the 2022 season
+### Leaders by median position for the 2022 season
 ![Leaders by median position for the 2022 season](images/Leaders_by_median_position_for_the_2022_season.png)
 
 
-#### Leaders by median position for the 2023 season
+### Leaders by median position for the 2023 season
 ![Leaders by median position for the 2023 season](images/Leaders_by_median_position_for_the_2023_season.png)
 
 
 ### Leaders at a specific race track for the 2023 season
 ![Leaders at a specific race track for the 2023 season](images/Leaders_at_a_specific_race_track_for_the_2023_season.png)
+
+
+
+## Recommendations
+Based on the analysis, the recommended car for participation in the GT World Challenge Europe championship in the 2024 season is the `Audi R8 LMS GT3 EVO 2`. This car has proven to be one of the most successful over the past three seasons, achieving top standings alongside the `Mercedes-AMG GT3`. Both cars achieved a median finish position of 2.0. Specifically, the `Audi R8 LMS GT3 EVO 2` secured first positions in the 2022 and 2023 seasons, with median finish positions of 1.0 and 2.0, respectively.
+
+Additionally, when examining track-specific performance during the 2023 season, the `Audi R8 LMS GT3 EVO 2` consistently secured first or second positions on nearly every track, except for Barcelona, where it finished just within the points zone.
+
+However, the `BMW M4 GT3` and `Mercedes-AMG GT3/GT3 EVO` remain strong contenders. On certain tracks, they outperformed the `Audi R8 LMS GT3 EVO 2`. For example:
+- The `BMW M4 GT3` dominated at Monza with a significant margin and also ranked first in points at Misano and Zandvoort, though it scored only a few points at Barcelona and Nürburgring.
+- The `Mercedes-AMG GT3/GT3 EVO` showed strong dominance at Nürburgring and led in points at Barcelona and Circuit Paul Ricard. Even when not leading, it remained within the top group or close behind.

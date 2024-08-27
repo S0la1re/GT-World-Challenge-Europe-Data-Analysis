@@ -1,4 +1,4 @@
-# GT World Challenge Europe Data Analysis | GT3 Car Selection Project
+# GT World Challenge Europe Data Analysis | Web Scraping Project
 
 
 
@@ -102,10 +102,25 @@ The results were visualized to facilitate a better understanding of the analysis
 
 
 ## Recommendations
-Based on the analysis, the recommended car for participation in the GT World Challenge Europe championship in the 2024 season is the `Audi R8 LMS GT3 EVO 2`. This car has proven to be one of the most successful over the past three seasons, achieving top standings alongside the `Mercedes-AMG GT3`. Both cars achieved a median finish position of 2.0. Specifically, the `Audi R8 LMS GT3 EVO 2` secured first positions in the 2022 and 2023 seasons, with median finish positions of 1.0 and 2.0, respectively.
 
-Additionally, when examining track-specific performance during the 2023 season, the `Audi R8 LMS GT3 EVO 2` consistently secured first or second positions on nearly every track, except for Barcelona, where it barely made it into the points zone, finishing near the bottom of the standings.
 
-However, the `BMW M4 GT3` and `Mercedes-AMG GT3/GT3 EVO` remain strong contenders. On certain tracks, they outperformed the `Audi R8 LMS GT3 EVO 2`. For example:
-- The `BMW M4 GT3` dominated at Monza with a significant margin and also ranked first in points at Misano and Zandvoort, though it scored only a few points at Barcelona and Nürburgring.
-- The `Mercedes-AMG GT3/GT3 EVO` showed strong dominance at Nürburgring and led in points at Barcelona and Circuit Paul Ricard. Even when not leading, it remained within the top group or close behind.
+### Top Recommendation: `Audi R8 LMS GT3 EVO 2`
+For the 2024 season of the GT World Challenge Europe, the `Audi R8 LMS GT3 EVO 2` stands out as the top recommendation. In the 2023 season, this car achieved a stellar first place with a median finish position of 2.0, making it the most consistent performer of the year.
+
+- **Strengths in 2023**: The `Audi R8 LMS GT3 EVO 2` dominated across various tracks, consistently securing first or second place on almost every circuit. Its exceptional performance underscores its adaptability and competitiveness in different racing conditions.
+- **Weaknesses in 2023**: The only track where the `Audi R8 LMS GT3 EVO 2` struggled slightly was Barcelona,  where it barely made it into the points zone, finishing near the bottom of the standings.
+Furthermore, the `Audi R8 LMS GT3 EVO 2` has been one of the top performers over the past three seasons (2021, 2022, and 2023). It achieved a median finish position of 2.0, sharing this outstanding record with the `Mercedes-AMG GT3`.
+
+
+### Strong Contender: `BMW M4 GT3`
+The `BMW M4 GT3` is another noteworthy option for the 2024 season. In 2023, it placed second overall, with a median finish position of 2.5, proving its potential to challenge the very best.
+
+- **Strengths in 2023**: The `BMW M4 GT3` demonstrated exceptional performance at Monza, where it dominated with a significant margin. It also ranked first in points at Misano and Zandvoort, showcasing its ability to excel on a variety of tracks. When it wasn’t securing the top spot, the `BMW M4 GT3` consistently finished within the top three on most tracks.
+- **Weaknesses in 2023**: However, its performance was notably weaker at Barcelona and Nürburgring, where it struggled to score points and barely made it into the points zone, finishing near the bottom of the standings.
+
+
+### Strong Contender: `Mercedes-AMG GT3/GT3 EVO`
+The `Mercedes-AMG GT3/GT3 EVO` also presents itself as a strong contender for the 2024 season. In the 2023 season, it secured a commendable third place overall, with a median finish position of 3.0.
+
+- **Strengths in 2023**: This car demonstrated dominance at Nürburgring, where it consistently outperformed other competitors. Additionally, it led in points at Barcelona and Circuit Paul Ricard, showcasing its strength on these challenging tracks.
+- **Consistency**: Even on tracks where it didn’t secure the top spot, the `Mercedes-AMG GT3/GT3 EVO` remained highly competitive, finishing within the leading group or just behind the leaders.

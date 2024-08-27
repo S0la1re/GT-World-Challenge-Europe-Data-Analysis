@@ -8,7 +8,6 @@ This project is designed to identify the most optimal GT3 car for participation 
 
 
 ## Project Structure
-The project is divided into the following key sections:
 
 
 ### 1. Web Scraping

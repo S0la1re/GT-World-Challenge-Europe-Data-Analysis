@@ -109,6 +109,7 @@ For the 2024 season of the GT World Challenge Europe, the `Audi R8 LMS GT3 EVO 2
 
 - **Strengths in 2023**: The `Audi R8 LMS GT3 EVO 2` dominated across various tracks, consistently securing first or second place on almost every circuit. Its exceptional performance underscores its adaptability and competitiveness in different racing conditions.
 - **Weaknesses in 2023**: The only track where the `Audi R8 LMS GT3 EVO 2` struggled slightly was Barcelona,  where it barely made it into the points zone, finishing near the bottom of the standings.
+
 Furthermore, the `Audi R8 LMS GT3 EVO 2` has been one of the top performers over the past three seasons (2021, 2022, and 2023). It achieved a median finish position of 2.0, sharing this outstanding record with the `Mercedes-AMG GT3`.
 
 
@@ -124,3 +125,5 @@ The `Mercedes-AMG GT3/GT3 EVO` also presents itself as a strong contender for th
 
 - **Strengths in 2023**: This car demonstrated dominance at Nürburgring, where it consistently outperformed other competitors. Additionally, it led in points at Barcelona and Circuit Paul Ricard, showcasing its strength on these challenging tracks.
 - **Consistency**: Even on tracks where it didn’t secure the top spot, the `Mercedes-AMG GT3/GT3 EVO` remained highly competitive, finishing within the leading group or just behind the leaders.
+
+Over the last three seasons, the `Mercedes-AMG GT3/GT3 EVO` has shown consistent high performance, achieving a median finish position of 2.0, which places it among the elite alongside the `Audi R8 LMS GT3 EVO 2`.

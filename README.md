@@ -11,8 +11,7 @@ This project is designed to identify the most optimal GT3 car for participation 
 
 
 ### 1. Web Scraping
-Data for the analysis was collected using web scraping techniques from the official GT World Challenge Europe website. This step involved writing and executing scripts to extract race results, car specifications, and other relevant information for each car and race.
-
+Data for the analysis was collected using web scraping techniques from the official GT World Challenge Europe website. This step involved writing and executing scripts using the BeautifulSoup library to extract race results, car specifications, and other relevant information for each car and race.
 
 ### 2. Data Cleaning
 Following data extraction, the raw data underwent a thorough cleaning process to ensure its accuracy and usability for subsequent analysis. This involved:
